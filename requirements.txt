@@ -7,3 +7,5 @@ pypdf
 beautifulsoup4
 requests
 chromadb
+protobuf==3.20.3
+pydantic==1.10.12
