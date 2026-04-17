@@ -1,3 +1,10 @@
+import os
+os.environ["PROTOCOL_BUFFERS_PYTHON_IMPLEMENTATION"] = "python"
+import streamlit as st
+import engine
+import scraper
+# ... the rest of your app.py code stays the same
+
 import streamlit as st
 import engine
 import scraper
