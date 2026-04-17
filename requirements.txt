@@ -6,7 +6,5 @@ langchain-chroma
 pypdf
 beautifulsoup4
 requests
-chromadb==0.4.24
-protobuf==3.20.3
-pydantic==1.10.12
-typing-extensions==4.5.0
+chromadb
+protobuf
